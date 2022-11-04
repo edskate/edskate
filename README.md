@@ -22,6 +22,12 @@
   
   Apaixonado por Tecnologia, Nunca Programei na minha vida.
   
+  # Cursos em andamento hoje.
   
+  - [x] Javascript 
+  - [x] SQL Server
+  - [x] Python
+  
+
   
   

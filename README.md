@@ -2,7 +2,7 @@
 
 ### I´am Developer front-end .
 
-<img align="right" alt="Gif" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628897047420.png" width="400px" />
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
@@ -12,7 +12,7 @@
 
 
 
-
+<img align="right" alt="Gif" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628897047420.png" width="400px" />
 ## Tecnologias que eu uso no  meu dia 
 
 <div style="display: inline_block">

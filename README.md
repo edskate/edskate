@@ -15,5 +15,5 @@ Sou Desenvolvedor de Programação.
 
 ### você também me encontra em:
   <a href="https://www.linkedin.com/in/edilson-gomes-de-lima-15489a211/">
-  <img  src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
+  <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

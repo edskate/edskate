@@ -13,3 +13,7 @@ Sou Desenvolvedor de Programação.
 <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <div>
 
+### você também me encontra em:
+  <a href="https://www.linkedin.com/in/edilson-gomes-de-lima-15489a211/">
+  <img  src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
+  </a>

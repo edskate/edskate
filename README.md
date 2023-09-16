@@ -11,10 +11,13 @@ Sou Desenvolvedor de Programação.
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img  width="50" height="50" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img  width="50" height="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <div>
 
 ### você também me encontra em:
   <a href="https://www.linkedin.com/in/edilson-gomes-de-lima-15489a211/">
+
   <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <a href="https://www.youtube.com/channel/UCnrVXfMefNxS1Bx-aPNH_nA">

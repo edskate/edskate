@@ -28,5 +28,6 @@ Sou Desenvolvedor de Programação.
   <a href="https://www.youtube.com/channel/UCnrVXfMefNxS1Bx-aPNH_nA">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  **Meus Interesses pessuais>**
    <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628897047420.png" width="400px"/>
   

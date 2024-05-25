@@ -1,5 +1,6 @@
 ### Hi there 👋 Eu sou edilson aqui :)
 Sou Desenvolvedor de Programação.
+<hr>
   **Meus Interesses pessuais**
    <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628897047420.png" width="400px"/>
   

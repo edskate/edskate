@@ -11,7 +11,7 @@ Sou Desenvolvedor de Programação.
 - 💻 Atualment mais Focado em:
 - 🎤 Cantor Artistico:
 - 🕺 Dançarino:
-- # fim
+
 
 <div display="inline">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />

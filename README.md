@@ -39,3 +39,4 @@ Sou Desenvolvedor de Programação.
   
    <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628170530976.png" width="400px"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edskate&show_icons=true&theme=radical)

@@ -7,7 +7,7 @@ Sou Desenvolvedor de Programação.
 
 - 👨‍⚖️ **Edilson** [hashtag linkedin] {https://www.linkedin.com/in/edilson-gomes-de-lima-15489a211/}
 - 🕺 Apaixonado por **Dança.** é   💻 Programação a 6 anos.
-- ⛸ Atleta **ice** 
+- ⛸ Atleta **ice** Nivel --> Intermediário.
 - 💻 Atualment mais Focado em:
 - 🎤 Cantor Artistico:
 - 🕺 Dançarino:

@@ -1,4 +1,4 @@
-### Hi there 👋 Eu sou edilson aqui :)
+### Hi there 👋 Eu sou Edilson aqui :)
 Sou Desenvolvedor de Programação.
 <hr>
 

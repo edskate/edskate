@@ -15,7 +15,7 @@ Sou Desenvolvedor de Programação.
 -  🕺 Coriografo:
 
 
-
+[LinkedIn](https://www.linkedin.com/in/edilson-gomes-de-lima-15489a211/)
   
 
 
